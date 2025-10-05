@@ -93,6 +93,6 @@ Implement predictive modeling for future sales forecasting.
 
  Vasa Mohan SivaGanesh
 📧 [sivagnesh.vasa@sasi.ac.in]
-[LinkedIn]:
+[LinkedIn]:https://www.linkedin.com/in/sivaganesh-vasa-573a432a2
 🎓 B.Tech Student | Aspiring Data Scientist
 💡 Passionate about exploring data and turning it into insights.
