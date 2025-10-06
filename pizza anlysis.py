@@ -29,8 +29,8 @@ print()
 print("Data types of columns in a data set:\n",a.dtypes)
 print()
 print()
-#KEY PERFORMANCE IDICATORS(KPI'S):-
 
+#KEY PERFORMANCE IDICATORS(KPI'S):-
 total_revenue=a['total_price'].sum()
 print(f"The total revenue of pizzas are: {total_revenue}")
 print()
@@ -215,3 +215,4 @@ for i, val in enumerate(bottom5):
     plt.text(i,val + 2, str(val), ha='center',va='bottom',fontsize=9, fontweight='bold')
 plt.tight_layout()
 plt.show()
+
